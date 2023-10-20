@@ -1,2 +1,2 @@
 # LeetCode-Solutions
-LeetCode solutions with C# and Python
+LeetCode solutions with C#
